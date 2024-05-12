@@ -12,8 +12,6 @@ test('renders learn react link', () => {
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Age</th>
     </tr>
   </thead>
   <tbody>
