@@ -14,7 +14,6 @@ test('renders learn react link', () => {
     <tr>
       <th>Name</th>
       <th>Age</th>
-      <th>City</th>
     </tr>
   </thead>
   <tbody>
